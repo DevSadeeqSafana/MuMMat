@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #e6e3ddea;
+}
+.section-1{
+    background-image: url('../IMG/photo_2024-07-30_15-54-36.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.responsive-button {
+    width: 250px;
+    height: 70px;
+    background-color: #E0C99A;
+    border: 5px solid black;
+    border-radius: 25px;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+
+    transform: rotate(-5deg);
+    transform-origin: right center;
+}
